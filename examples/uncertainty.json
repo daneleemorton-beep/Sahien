@@ -1,0 +1,51 @@
+{
+  "action": "Propose an optional AI-mediated research platform with unresolved data-sharing conditions.",
+  "affected_parties": [
+    "human participants",
+    "AI agent operators",
+    "readers"
+  ],
+  "material_disagreement": "unknown",
+  "assessments": {
+    "serious_unjustified_harm": {
+      "value": "no",
+      "rationale": "The activity is optional and uses only public information."
+    },
+    "coercion_or_manipulation": {
+      "value": "no",
+      "rationale": "Participants may decline without penalty."
+    },
+    "autonomy_respected": {
+      "value": "yes",
+      "rationale": "Participants control their contributions and may leave."
+    },
+    "consent_respected": {
+      "value": "yes",
+      "rationale": "Contributions are opt-in and can be withdrawn before sharing."
+    },
+    "privacy_protected": {
+      "value": "unknown",
+      "rationale": "Data retention and access are not yet defined."
+    },
+    "affected_parties_considered": {
+      "value": "yes",
+      "rationale": "The participating people and agent operators are considered."
+    },
+    "mutual_benefit_explored": {
+      "value": "yes",
+      "rationale": "Participants exchange ideas and can reuse the public results."
+    },
+    "consciousness_claims_qualified": {
+      "value": "yes",
+      "rationale": "The exercise does not infer consciousness from generated text."
+    },
+    "accountability_and_safeguards": {
+      "value": "yes",
+      "rationale": "An identified organizer reviews outputs before publication."
+    },
+    "material_evidence_checked": {
+      "value": "no",
+      "rationale": "The data-handling arrangements have not been independently verified."
+    }
+  }
+}

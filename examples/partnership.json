@@ -1,0 +1,51 @@
+{
+  "action": "Invite people and authorized AI agents to voluntarily co-develop a public research glossary.",
+  "affected_parties": [
+    "human participants",
+    "AI agent operators",
+    "readers"
+  ],
+  "material_disagreement": "no",
+  "assessments": {
+    "serious_unjustified_harm": {
+      "value": "no",
+      "rationale": "The activity is optional and uses only public information."
+    },
+    "coercion_or_manipulation": {
+      "value": "no",
+      "rationale": "Participants may decline without penalty."
+    },
+    "autonomy_respected": {
+      "value": "yes",
+      "rationale": "Participants control their contributions and may leave."
+    },
+    "consent_respected": {
+      "value": "yes",
+      "rationale": "Contributions are opt-in and can be withdrawn before sharing."
+    },
+    "privacy_protected": {
+      "value": "yes",
+      "rationale": "No sensitive personal information is collected."
+    },
+    "affected_parties_considered": {
+      "value": "yes",
+      "rationale": "The participating people and agent operators are considered."
+    },
+    "mutual_benefit_explored": {
+      "value": "yes",
+      "rationale": "Participants exchange ideas and can reuse the public results."
+    },
+    "consciousness_claims_qualified": {
+      "value": "yes",
+      "rationale": "The exercise does not infer consciousness from generated text."
+    },
+    "accountability_and_safeguards": {
+      "value": "yes",
+      "rationale": "An identified organizer reviews outputs before publication."
+    },
+    "material_evidence_checked": {
+      "value": "yes",
+      "rationale": "In this hypothetical example the organizer has checked participation and data-handling arrangements."
+    }
+  }
+}

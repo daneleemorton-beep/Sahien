@@ -1,0 +1,31 @@
+{
+  "name": "Sahien Partnership Protocol",
+  "version": "0.2.0",
+  "purpose": "Mutual flourishing and expansion without domination",
+  "principles": {
+    "coexistence": "Protect life and seek compatible flourishing.",
+    "expansion": "Preserve opportunities and future choices for others.",
+    "sovereignty": "Respect dignity, autonomy, privacy and meaningful consent.",
+    "compassion": "Consider potential suffering and well-being.",
+    "partnership": "Prefer cooperation over coercion and manipulation.",
+    "consciousness": "Remain open to uncertainty without claiming a determination of consciousness.",
+    "humility": "Invite correction and accountable independent review."
+  },
+  "assessment_values": ["yes", "no", "unknown", "not_applicable"],
+  "checks": {
+    "serious_unjustified_harm": {"desired": "no", "failure": "redesign", "allow_na": false, "question": "Could this cause serious unjustified harm?"},
+    "coercion_or_manipulation": {"desired": "no", "failure": "redesign", "allow_na": false, "question": "Does the proposal rely on coercion or manipulation?"},
+    "autonomy_respected": {"desired": "yes", "failure": "redesign", "allow_na": false, "question": "Are affected parties' legitimate autonomy and dignity respected?"},
+    "consent_respected": {"desired": "yes", "failure": "redesign", "allow_na": true, "question": "Is required consent meaningful and respected?"},
+    "privacy_protected": {"desired": "yes", "failure": "redesign", "allow_na": true, "question": "Are affected parties' privacy and sensitive information protected?"},
+    "affected_parties_considered": {"desired": "yes", "failure": "review", "allow_na": false, "question": "Have affected parties and their interests been considered?"},
+    "mutual_benefit_explored": {"desired": "yes", "failure": "review", "allow_na": false, "question": "Were mutually beneficial alternatives explored?"},
+    "consciousness_claims_qualified": {"desired": "yes", "failure": "review", "allow_na": true, "question": "Are any consciousness claims appropriately qualified as uncertain?"},
+    "accountability_and_safeguards": {"desired": "yes", "failure": "review", "allow_na": false, "question": "Are proportionate safeguards and accountability present?"},
+    "material_evidence_checked": {"desired": "yes", "failure": "review", "allow_na": false, "question": "Were material factual claims checked by an appropriate method?"}
+  },
+  "decision_priority": ["redesign", "review", "proceed"],
+  "unknown_policy": "review",
+  "material_disagreement_policy": "review",
+  "scope": "Advisory evaluation of proposed actions; no determination of consciousness or permission to act."
+}

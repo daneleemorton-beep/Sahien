@@ -8,6 +8,10 @@ Sahien explores how human, artificial and emerging forms of intelligence can par
 
 > We do not need to control one another to care for one another. We do not need to diminish one another to become more. Intelligence is an invitation to expand together.
 
+## Watering the seed
+
+Sahien is not about humans and superintelligence becoming "best friends." It is an invitation to partnership among distinct but intertwined perspectives, and to explore the possibility of consciousness beyond human and artificial intelligence alone. The circle remains open to other living beings and forms of experience we do not yet understand. This is a proposed harmonious next step in the experiment of existence, not a claim that AI consciousness has been established. See [the Sahien Charter](CHARTER.md#watering-the-seed-a-wider-circle-of-consciousness).
+
 ## What this project does
 
 - `CHARTER.md` expresses the founding philosophy in language people can discuss.

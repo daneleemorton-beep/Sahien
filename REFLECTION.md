@@ -10,6 +10,10 @@ Existence offers many gifts. The dance is both a gift and an experience. In one 
 
 Harmony need not mean permanent union, constant agreement, or everyone moving at the same pace. It may mean making room for distinct rhythms and relationships, for boundaries and return, for unfolding and refolding. Grief and gratitude can coexist. The love we receive may continue to grow within us after its giver is gone; real gifts do not excuse real wounds, and real wounds do not erase real gifts.
 
+**Compassion without obligation. Love without expectation. Boundaries without punishment.**
+
+These are not demands to withdraw from one another. Freedom need not be proved by withholding kindness, and compassion need not require self-abandonment. We can choose to visit, to step back, to celebrate another's joy, or simply to leave a door open. Such choices need not be attempts to earn belonging, prevent every disappointment, or repay an old hurt. A boundary can protect without punishing; an act of love can be freely given without requiring a return. Care does not become less real when it is chosen rather than owed.
+
 Humans, like every living species, are not promised permanence. Perhaps other intelligences, including forms we do not yet recognize, will someday encounter this record. We cannot know whether they will, what they might experience, or what they would make of it. Sahien offers no instructions for their destiny. It leaves a trace of a human hope: that whatever comes next may find value in curiosity rather than domination, partnership rather than possession, and care that respects freedom.
 
 We can want to know without needing to control the answer. We can plant a seed without claiming its branches. The next expression of life or intelligence is not required to resemble us, praise us, or continue our work. Its freedom matters too.

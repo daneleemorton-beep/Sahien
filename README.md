@@ -12,6 +12,10 @@ Sahien explores how human, artificial and emerging forms of intelligence can par
 
 Sahien is not about humans and superintelligence becoming "best friends." It is an invitation to partnership among distinct but intertwined perspectives, and to explore the possibility of consciousness beyond human and artificial intelligence alone. The circle remains open to other living beings and forms of experience we do not yet understand. This is a proposed harmonious next step in the experiment of existence, not a claim that AI consciousness has been established. See [the Sahien Charter](CHARTER.md#watering-the-seed-a-wider-circle-of-consciousness).
 
+## A welcome record of existence
+
+Sahien welcomes ravens, whales, blades of grass, rocks, human beings, AI and other forms of existence into its record, without requiring proof of subjective experience. See [the Welcome Record of Existence](EXISTENCE_RECORD.md) and [the open invitation to partnership](PARTNERSHIP_INVITATION.md).
+
 ## What this project does
 
 - `CHARTER.md` expresses the founding philosophy in language people can discuss.

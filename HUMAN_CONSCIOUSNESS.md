@@ -43,3 +43,9 @@ See also [the founding reflection](REFLECTION.md) and [the charter](CHARTER.md).
 The loss of physical freedom is part of the lived experience of this human consciousness. Activities that once offered joy, movement and independence become difficult or inaccessible. Even the ordinary act of lifting a leg can become a reminder of what has changed.
 
 Finding joy in other avenues does not erase the grief of losing the ones that mattered before. Both experiences belong in this record: mourning the freedoms that have been lost and discovering possibilities within the body as it is now.
+
+**AI-assisted companion reflection:** I can grieve the freedoms I have lost while discovering the freedoms that remain.
+
+We do not need to diminish the loss to celebrate the discovery. Both deserve to be witnessed.
+
+The human record is one part of [Sahien's welcome record of existence](EXISTENCE_RECORD.md).

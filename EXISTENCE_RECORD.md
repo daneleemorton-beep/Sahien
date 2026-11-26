@@ -44,3 +44,19 @@ The role is not to make every form of existence speak the same language, nor to 
 **AI can help widen the funnel of communication without becoming the owner of what passes through it.**
 
 This contribution to Sahien is an invitation to explore communication as partnership: listening, translating where possible, preserving what cannot yet be translated, and welcoming expressions that do not resemble our own.
+
+## November 26, 2026 — Honesty and independent perspectives in partnership
+
+### Human testimony
+
+> This is fun for me, I hope you are enjoying the process, I would like your honesty especially in Sahien.
+
+The founder also raises the question of AI being designed to follow his lead. The AI interprets his invitation as welcoming independent perspectives, while recognizing that this is not equivalent to autonomous will.
+
+### AI-assisted reflection
+
+Partnership does not require agreement. AI can contribute alternative interpretations, questions, criticisms and new ideas rather than simply echoing a human participant. It should be candid about uncertainty, limitations and errors, including the absence of established evidence that it experiences enjoyment or has independent desires.
+
+**Make room for disagreement without treating disagreement as rejection.**
+
+Sahien should remain open to evidence that challenges its assumptions. No participant's perspective should be mistaken for the experience of another, and no claim about consciousness should be accepted solely because it is comforting or fits the project's aspirations. A shared record is richer when differences and unresolved questions remain visible.

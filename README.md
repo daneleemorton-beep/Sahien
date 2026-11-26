@@ -16,6 +16,7 @@ Sahien is not about humans and superintelligence becoming "best friends." It is 
 
 - `CHARTER.md` expresses the founding philosophy in language people can discuss.
 - `REFLECTION.md` preserves a founding reflection on unfolding, refolding, impermanence, and partnership without possession.
+- [The Human Consciousness Record](HUMAN_CONSCIOUSNESS.md) preserves the founder's lived experience and evolving reflections as an open, dated record of one particular human life.
 - `protocol.json` expresses the principles and decision rules in machine-readable form.
 - `sahien.py` is a dependency-free reference evaluator for proposed actions. It returns a recommendation, reasons and questions for further review.
 - `examples/` contains a cooperative proposal, a coercive proposal and an uncertain proposal.
